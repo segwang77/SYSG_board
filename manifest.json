@@ -1,0 +1,17 @@
+{
+  "name": "SYSG",
+  "short_name": "SYSG",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#fbfbfd",
+  "theme_color": "#0071e3",
+  "icons": [
+    {
+      "src": "./img/logo/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "functions",
+  "description": "새 게시글/답변 발생 시 푸시 알림 발송",
+  "engines": {
+    "node": "20"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^12.1.0",
+    "firebase-functions": "^5.0.0"
+  },
+  "private": true
+}
